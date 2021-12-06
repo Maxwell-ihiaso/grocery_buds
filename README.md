@@ -1,6 +1,6 @@
 # Grocery Bud Project
 
-[View Demo](https://grocery_buds_proj.netlify.app)
+[View Demo](https://grocery-buds-proj.netlify.app/)
 ![grocery_buds-preview](/public/grocery_buds-preview.png)
 
 ---
